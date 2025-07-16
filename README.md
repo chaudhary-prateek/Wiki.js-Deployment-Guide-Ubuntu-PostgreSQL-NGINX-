@@ -226,10 +226,3 @@ Certbot will configure HTTPS and auto-renew.
 ---
 
 > 🛠 Maintained by Prateek Chaudhary – DevOps & Cloud Engineer
-
-```
-
----
-
-Let me know if you want this saved as a downloadable `.md` file or pushed to a GitHub repo directly.
-```
